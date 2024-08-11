@@ -1,4 +1,4 @@
-# cUnits
+# cUnits 3D Physics Engine
 Little physics engine built completely in Java!
 
 Please credit the developer (us) if you use cUnits in your personal projects!
